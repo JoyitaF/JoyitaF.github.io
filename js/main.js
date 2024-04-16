@@ -13,7 +13,7 @@
         }
     });
     
-    //Typed.js
+    //Typed.js from www.mattboldt.com
     var typed = new Typed('#typed', {
         stringsElement: '#typed-strings',
         typeSpeed: 50,
