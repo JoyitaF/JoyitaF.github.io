@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Started a new genomics internship at Geval (genereveal)
-date: 2025-02-15 15:59:00-0400
+date: 2025-02-15 15:59:00+0600
 inline: false
 related_posts: false
 ---
