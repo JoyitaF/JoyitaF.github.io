@@ -64,11 +64,16 @@ ninja.data = [{
           section: "News",},{id: "news-successfully-defended-my-undergraduate-thesis-at-iub-extremely-thankful-to-my-supervisors",
           title: 'Successfully defended my undergraduate thesis at IUB. Extremely thankful to my supervisors!',
           description: "",
-          section: "News",},{id: "news-started-a-new-genomics-internship-at-geval-genereveal",
-          title: 'Started a new genomics internship at Geval (genereveal)',
+          section: "News",},{id: "news-started-a-new-genomics-internship-at-genereveal",
+          title: 'Started a new genomics internship at Genereveal',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
+            },},{id: "news-started-a-new-position-as-a-junior-data-scientist-at-simplisolve",
+          title: 'Started a new position as a Junior Data Scientist at SimpliSolve!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_6/";
             },},{id: "projects-kidney-abnormal-region-localization-on-3d-ct-images-using-roi-guided-segmentation",
           title: 'Kidney Abnormal Region Localization on 3D CT Images Using ROI-guided Segmentation',
           description: "journal",
