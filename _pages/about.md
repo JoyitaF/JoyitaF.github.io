@@ -27,9 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Joyita Faruk. I'm a computer scientist and researcher. My main interests are in bioinformatics and quantum computing. 
+Hi! I'm Joyita Faruk — a computer scientist passionate about bioinformatics, data science, and quantum computing.
 
-I am presently affiliated with the Medical Imaging Research & Analytics wing in the IUB CCDS lab. Additionally, I am interning at Geval (genereveal) on genomics.
+Throwing myself into the deep end of research — to solve real-world problems — is what I believe to be my job as a Junior Data Scientist.
 
-Aside from my publications, you can check out my upcoming research in the research section!
+Presently, I am affiliated with the Medical Imaging Research & Analytics wing in the IUB CCDS lab. I am also interning at Genereveal on genomics.
+
+Check out my publications, and if you’re curious about what’s coming, take a look at the research section!
 
