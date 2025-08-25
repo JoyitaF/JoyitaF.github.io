@@ -69,11 +69,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-started-a-new-position-as-a-junior-data-scientist-at-simplisolve",
-          title: 'Started a new position as a Junior Data Scientist at SimpliSolve!',
+            },},{id: "news-started-a-new-position-as-a-junior-data-scientist-at-simplisolve-r-amp-d-dept",
+          title: 'Started a new position as a Junior Data Scientist at SimpliSolve R&amp;amp;D Dept!...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_6/";
+            },},{id: "news-spearheading-simplisolve-39-s-ai-innovators-talent-hunt-at-iub",
+          title: 'Spearheading SimpliSolve&amp;#39;s AI Innovators Talent Hunt at IUB!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_7/";
             },},{id: "projects-kidney-abnormal-region-localization-on-3d-ct-images-using-roi-guided-segmentation",
           title: 'Kidney Abnormal Region Localization on 3D CT Images Using ROI-guided Segmentation',
           description: "journal",
@@ -86,7 +91,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-cloud-based-vaccine-tracking-system-a-study-on-confidentiality-and-performance-trade-offs",
           title: 'Cloud-Based Vaccine Tracking System- A Study on Confidentiality and Performance Trade-offs',
-          description: "journal",
+          description: "extended course project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{
