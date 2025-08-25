@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Started a new position as a Junior Data Scientist at SimpliSolve! 
+title: Started a new position as a Junior Data Scientist at SimpliSolve R&D Dept! 
 date: 2025-06-17 15:59:00+0600
 inline: false
 related_posts: false
@@ -13,9 +13,10 @@ related_posts: false
 #### Responsibilities
 
 <ul>
-    <li>Understanding and reproducing state-of-the-art time series prediction algorithms</li>
+    <li>Researching the latest methodologies to support the development of R&D projects</li>
+    <li>Understanding and developing state-of-the-art AI models</li>
     <li>Conducting thorough exploratory data analysis, discerning patterns and insights</li>
-    <li>Writing efficient and robust GPU-compatible Python code to implement algorithms</li>
+    <li>Writing efficient and robust GPU-compatible Python code</li>
     <li>Deploying developed codes using cloud services such as AWS</li>
 </ul>
 

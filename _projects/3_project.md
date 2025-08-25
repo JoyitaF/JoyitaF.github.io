@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Cloud-Based Vaccine Tracking System- A Study on Confidentiality and Performance Trade-offs 
-description: journal
+description: extended course project
 img: assets/img/cloud-vac.png
-importance: 2
+importance: 3
 category: work
 related_publications: false
 ---
-    This study explores the extent of prioritization between confidentiality and security.
+    This study explores the extent of prioritization between confidentiality and security. It is an extended version of my Cloud Computing course project for IUB.
     This is an especially important consideration for sensitive data such as electronic health records.
-    I am conducting the literature review and documentation for this upcoming journal paper.
+    I conducted the literature review and documentation for this paper.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

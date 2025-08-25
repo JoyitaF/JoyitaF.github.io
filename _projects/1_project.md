@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
     As part of my undergradutate thesis work, I explored ways to fully automate 3D CT Kidney Abnormal Region Localization using deep learning techniques.
-    The KiTS21 dataset is utilized for training.
+    The KiTS21 dataset is utilized for training. We are also conducting an external validation with another dataset.
     We are aiming to show our findings in a journal paper soon.
 
 <div class="row">

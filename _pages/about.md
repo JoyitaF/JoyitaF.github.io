@@ -11,7 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
 
-cv_pdf: JF_CV.pdf
+cv_pdf: JF_CV_v1.pdf
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -31,7 +31,7 @@ Hi! I'm Joyita Faruk — a computer scientist passionate about bioinformatics, d
 
 Throwing myself into the deep end of research — to solve real-world problems — is what I believe to be my job as a Junior Data Scientist.
 
-Presently, I am affiliated with the Medical Imaging Research & Analytics wing in the IUB CCDS lab. I am also interning at Genereveal on genomics.
+Presently, I am affiliated with the Medical Imaging Research & Analytics wing in the IUB CCDS lab.
 
 Check out my publications, and if you’re curious about what’s coming, take a look at the research section!
 

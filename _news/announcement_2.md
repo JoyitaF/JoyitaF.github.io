@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-After attending the Interdisciplinary Computational Biology Workshop at BRAC university, I was able to connect with instructor Dr. Amitava Roy. A short selection process later, I am continuing my learning by interning at [Genereveal](http://genereveal.us/index.html).
+After attending the Interdisciplinary Computational Biology Workshop at BRAC university, I was able to connect with instructor Dr. Amitava Roy. A short selection process later, I continued my learning by interning at [Genereveal](http://genereveal.us/index.html).
 
 ---
 

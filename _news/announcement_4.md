@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received the Mitacs Globalink Research Award worth $6000 CAD for a project on Quantum Hybridized  Cloud Integration
+Received the Mitacs Globalink Research Award worth $6000 CAD for a project on Quantum Hybridized Cloud Integration
