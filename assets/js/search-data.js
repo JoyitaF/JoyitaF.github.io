@@ -64,8 +64,8 @@ ninja.data = [{
           section: "News",},{id: "news-successfully-defended-my-undergraduate-thesis-at-iub-extremely-thankful-to-my-supervisors",
           title: 'Successfully defended my undergraduate thesis at IUB. Extremely thankful to my supervisors!',
           description: "",
-          section: "News",},{id: "news-started-a-new-genomics-internship-at-genereveal",
-          title: 'Started a new genomics internship at Genereveal',
+          section: "News",},{id: "news-genomics-internship-at-genereveal",
+          title: 'Genomics internship at Genereveal',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
